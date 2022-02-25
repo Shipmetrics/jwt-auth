@@ -2,4 +2,5 @@
 composer.lock
 build
 coverage.xml
+.idea
 .phpunit.result.cache
